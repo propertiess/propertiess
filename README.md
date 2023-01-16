@@ -1,3 +1,8 @@
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=propertiess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=propertiess&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
 <h1>Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
@@ -12,9 +17,4 @@
 ![](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=f9ad00)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
 
-<h1>GitHub Stats</h1>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=propertiess&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=propertiess&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-</div>
