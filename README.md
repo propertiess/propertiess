@@ -1,6 +1,6 @@
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=propertiess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=propertiess&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=propertiess&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=propertiess&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
 </div>
 
 <h1>Technologies & Tools</h1>
